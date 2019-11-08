@@ -15,4 +15,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field></shadow></value><value name="kind"><shadow type="spritekind" id="oTn*0PxJf4E;4z538N1o"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field></shadow></value><value name="kind"><shadow type="spritekind" id="oTn*0PxJf4E;4z538N1o"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="game_control_sprite" id="_!hQmh8v_0MJ9H*J%h*]"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="variables_get" id="~JUaDo|:deJ;6IB);_^Y"><field name="VAR" id="WY@$n:GX%OvSp54MW7JC">mySprite</field></block></value></block></next></block></statement></block><block type="keyonevent" id="21UR(~O=3X4/I@iJkV22" x="270" y="290"><field name="button">controller.A</field><field name="event">ControllerButtonEvent.Pressed</field></block></xml>
